@@ -78,7 +78,7 @@ p {
 
 body {
     font-family: var(--font-body);
-    background: hsl(257deg, 40%, 49%) url("../images/bg-mobile.svg") no-repeat left top;
+    background: hsl(257deg, 40%, 49%) url("../images/bg-mobile.svg");
     background-repeat: no-repeat;
    
 }
